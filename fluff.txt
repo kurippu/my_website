@@ -1,0 +1,3 @@
+<div class="info"><h2>Hi my name is Angel, I'm a first generation Computer Science major 
+            from Long Beach, California! I'm a Second-year student at CSULB. I'm a member of my universities SHPE chapter
+            as the membership chair, part of the SWE membership committee, as well as an active member of WiC! </h2></div>
